@@ -1,0 +1,7 @@
+{
+  "name": "frontend-contador-horas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
