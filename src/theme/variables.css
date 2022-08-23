@@ -80,7 +80,7 @@ http://ionicframework.com/docs/theming/ */
   /*
    * Dark Colors
    * -------------------------------------------
-   */
+   
 
   body {
     --ion-color-primary: #428cff;
@@ -150,8 +150,7 @@ http://ionicframework.com/docs/theming/ */
   /*
    * iOS Dark Theme
    * -------------------------------------------
-   */
-
+   
   .ios body {
     --ion-background-color: #000000;
     --ion-background-color-rgb: 0,0,0;
@@ -194,7 +193,7 @@ http://ionicframework.com/docs/theming/ */
   /*
    * Material Design Dark Theme
    * -------------------------------------------
-   */
+   
 
   .md body {
     --ion-background-color: #121212;
@@ -232,5 +231,5 @@ http://ionicframework.com/docs/theming/ */
     --ion-tab-bar-background: #1f1f1f;
 
     --ion-card-background: #1e1e1e;
-  }
+  }*/
 }

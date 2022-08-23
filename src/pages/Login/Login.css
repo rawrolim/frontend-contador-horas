@@ -1,0 +1,9 @@
+#centralizar{
+    position: fixed;
+    width: 100%;
+    top:30%;
+}
+
+.margin-top{
+    margin-top:20px;
+}
